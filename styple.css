@@ -1,0 +1,359 @@
+/* /* h3 {
+    color :chartreuse;
+    font-size:  100px;
+} */
+
+/* h1 {
+    color: blue ;
+    font-size: 50px;
+} */
+/* h2 {
+    color :blueviolet
+} */
+
+
+/* #demo-id {
+    color: red;
+}
+.demo-class{
+    font-size: 40px;
+} */ 
+
+
+* {
+    box-sizing: border-box;
+    /* tat ca ca the html deu nhanj thuoc tinh */
+    margin :0;
+    padding: 0;
+    color : #0d0505be;
+   
+/* font-family: 'Rubik Marker Hatch', cursive; */
+}
+/* .box-model{
+    background-color: red;
+    color:white;
+    font-size: 50px;
+    width:300px;
+    height: 300px;
+    padding: 30px;
+    margin:30px;
+    border: 5px solid black;
+    box-sizing : border-box;
+    color: rgb(21,02,95);
+    text-align: center;
+    text-transform: uppercase;
+    background: url(./anh-dep-jpg-fujifilm-2.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+a{
+    /*mất dấu gạch chân chư hiển thị có trong thẻ a */
+    /* text-decoration: none; */
+/* } */
+
+/* .inline { */
+    /* display: inline-block;  */
+    /* block, inline, inline-block */
+/* } */ 
+
+
+
+/* background: url(" ");
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat; */
+
+
+
+
+
+
+/* 88888888888c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8cc8c8c8c8c8 */
+
+
+
+.thanhpham-1995 h3 {
+    color : blue
+}
+.thanhpham-1995{
+    width : 776px;
+    /* height : 250px; */
+    margin: 20px
+
+}
+.blog-one{
+    
+    width : 776px;
+    /* height : 250px; */
+    background-color: rgb(224, 230, 230);
+    border-left: 10px solid #dfcb52;
+}
+.thanhpham-1995 p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+/* bai2 */
+.thanhpham-1{
+    width: 800;
+    margin:20px;
+}
+.tp10-10{
+    color: red;
+    
+}
+.tp10-20{
+    
+    width: 800px;
+    height :50px;
+    padding-top: 10px;
+    margin-top: 5px;
+    border: 3px solid green;
+    text-align : center;
+}
+.tp10-30{
+    height: 160px;
+    margin-top: 30px;
+    background-color: antiquewhite;
+    width: 900px;
+}
+.tp10-40{
+    border-left: 5px solid green;
+    height: 70px;
+    width:800px;
+    background-color: white;
+    margin-bottom: 10px;
+    margin-left: px;
+}
+.tp10-50{
+    font-size: 15px;
+    color: aliceblue;
+    margin-top:5px ;
+    background-color: green;
+    width: 150px;
+    height:40px;
+    border-radius:4px ;
+}
+.tp10-401{
+    margin-left: 10px;
+}
+.tp10-4011{
+margin-left:  20px;
+}
+
+
+/* bai3 */
+.tp1{
+    margin-left: 10px;
+    width:210px;
+    border: 1px solid rgb(125, 115, 115);
+    height: 380px;
+    ;
+
+    
+
+}
+.tp1-1{
+    
+    background-color: azure;
+    width:200px;
+    height:150px;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 3px;
+    line-height: 150px;
+   
+}
+.tp1-2{
+    margin-left: 5px;
+}
+.tp1-21{
+    color: blue;
+    margin-right: 2px;
+    /* border-top: 1px solid black; */
+}
+.tp1-22{
+    margin-top: 10px;
+    color:blue;
+}
+
+
+
+
+/* bai4 */
+
+
+
+.bai4{
+    width:600px;
+    border :1px solid black;
+    margin: 20px;
+}
+.bai4-1{
+    text-align: center;
+    background-color: beige;
+    border-bottom: 1px solid black;
+}
+.bai4-2{
+    text-align: center;
+}
+.bai4-2-1{
+    padding:2%; 
+}
+.bai4-2-3{
+    line-height:30px ;
+    color: white;
+    background-color: blue;
+    width:120px;
+    margin-left: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+    border-radius: 3px ;
+}
+.bai4-3{
+    text-align: center;
+    background-color: beige;
+    border-top: 1px solid black;
+
+
+}
+
+
+
+
+/* bai 5 */
+.bai5{
+    border-radius: 5px;
+    width:300px;
+    border:1px solid black;
+    margin-left: 10px;
+}
+.bai5-2{
+border-top: 1px solid black;
+
+}
+.bai5-3{
+    border-top: 1px solid black;
+    }
+ 
+.bai5-1-1{
+    margin-left:10px ;
+}
+.bai5-1-1.bai5-1-1-1{
+    background-color: blue;
+    width: 20px;
+    margin: 100px;
+}
+.bai5-1-2{
+    margin-left:10px ;
+}
+.bai5-2-1{
+    margin-left:10px ;
+}
+.bai5-2-2{
+    margin-left:10px ;
+}
+.bai5-3-1{
+    margin-left:10px ;
+}
+.bai5-3-2{
+    margin-left:10px ;
+}
+
+
+
+
+/* bai 6 */
+ .bai6{
+    height:120px;
+    width: 400px;
+    background-color: rgb(247, 244, 239);
+    border-radius: 8px;
+ }
+ .bai6-1{
+    line-height:40px;
+    height:40px;
+    margin-left:10px;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+ }
+ .bai6-1-1{
+    margin-left: 260px;;
+ }
+ .bai6-2{
+    margin-left: 10px;
+    /* border-top: 1px solid black; */
+    height:30px;
+ }
+ .bai6-3{
+    border:1px;
+    margin-left: 10px;
+    /* border-top: 1px solid black; */
+ }
+ .bai6-3-1{
+    height:30px;
+    color: white;
+    width:150px;
+    background-color: rgb(12, 12, 218);
+    text-align: center;
+    border-radius: 4px;
+    margin-top:10px;
+    line-height:25px;
+    margin-left: 200px;
+
+ }
+
+
+
+
+/* bai9 */
+.bai9-0{
+    margin-left: 50px;
+    border:1px solid rgb(149, 147, 147);
+    width: 600px;
+    height: 900px;
+    /* border-top-left-radius:300px ; */
+    /* border-top-right-radius: 300px; */
+    /* border-bottom-left-radius: 50px; */
+    /* border-bottom-right-radius: 50px; */
+
+}
+.bai9{
+    margin-top: 50px;
+    margin-left: 50px;
+    border:1px solid rgb(149, 147, 147);
+    width: 500px;
+    height: 800px;
+    border-top-left-radius:300px ;
+    border-top-right-radius: 300px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.bai9-1{
+    background-color: red;
+    border:1px solid black;
+    width: 400px;
+    height: 500px;
+    border-top-left-radius:300px ;
+    border-top-right-radius: 300px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: 50px;
+}
+.bai9-2{
+    margin-left: 50px;
+}
+
+
+
+
+
+/* ************************************ */
+
